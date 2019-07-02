@@ -1,5 +1,8 @@
+
+from src.app import *
+
 def main():
-    print('Hello World')
+    bootApplication()
 
 if __name__ == "__main__":
     main()
